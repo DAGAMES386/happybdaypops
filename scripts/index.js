@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 const btn = document.getElementById('ilysm');
 
 const config = {
-  birthdate: 'Jan 12, 2025',
+  birthdate: 'Jan 12, 2024',
   name: 'Pops'
 };
 
