@@ -504,5 +504,5 @@ x = setInterval(function() {
 }, second);
 
 btn.onclick = function(){
-  window.open("http://happybirthdaypops.org/secret.html");
+  window.open("http://happybirthdaypops.org/otherthingamajiggy.html");
 };
