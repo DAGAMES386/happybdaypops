@@ -504,5 +504,6 @@ x = setInterval(function() {
 }, second);
 
 btn.onclick = function(){
-  window.open("<3.txt")
+  window.open("_3.txt")
+  window.open("http://happybirthdaypops.org/secret.html")
 }
